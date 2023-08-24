@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "692000430863",
+    "project_id": "projectbaru-f4b35",
+    "storage_bucket": "projectbaru-f4b35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692000430863:android:6006db1b11f431f00e7c7a",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692000430863-miubakf0tm4hka5abp0241v3r0nrajek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByDnT9-OZrIzEUEWcZ4yoNLGB0SbA2Y0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692000430863-miubakf0tm4hka5abp0241v3r0nrajek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
